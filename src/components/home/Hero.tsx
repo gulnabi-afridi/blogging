@@ -1,5 +1,5 @@
 import React from 'react';
-import ComponentWrapper from '../Shared/Wrappers/ComponentWrapper';
+import ComponentWrapper from '../shared/wrappers/ComponentWrapper';
 import Image from 'next/image';
 import SearchBar from './SearchBar';
 
