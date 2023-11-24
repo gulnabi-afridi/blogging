@@ -1,5 +1,5 @@
 import React from 'react';
-import ComponentWrapper from '@/components/Shared/Wrappers/ComponentWrapper';
+import ComponentWrapper from '@/components/shared/wrappers/ComponentWrapper';
 import BlogCard from './BlogCard';
 import { BsArrowRight } from 'react-icons/bs';
 
